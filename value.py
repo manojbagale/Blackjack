@@ -1,7 +1,7 @@
 card_rank = int(input())
 
 if card_rank == 11 or card_rank == 12 or card_rank == 13:
-  # Jacks, Queens, and Kings are worth 10.
+  # Jacks, Queens, and Kings are worth 10....
   card_value = 10
 elif card_rank == 1:
   # Aces are worth 11.
